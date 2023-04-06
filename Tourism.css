@@ -1,0 +1,44 @@
+.navbar-brand{
+   background-color: aqua;
+   padding: 20px;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-style:italic;  
+   color:green;
+}
+.choice{
+    text-align: center;
+    color:hsl(24, 83%, 44%);
+    font-style: italic;
+}
+.container{
+    display:flex;
+}
+/* .im{
+    height: 700px;
+    width:700px;
+} */
+.text-center{
+    color:royalblue;
+    font-style: italic;
+    font-size: 2px;
+
+}
+#fc{
+    color:chocolate
+}
+.card-section .card-img-top{
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.card{
+    margin-right:5px;
+
+}
+.nav-item :hover{
+    background-color: rgb(22, 173, 204);
+}
+
+
+
+
